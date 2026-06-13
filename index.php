@@ -8,7 +8,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <title>NARUTO AI MAX - V4 (PHP)</title>
+    <title>NARUTO AI MAX - V4</title>
     <style>
         * {
             margin: 0;
@@ -281,7 +281,7 @@
 
     <!-- গেম সাইট -->
     <div class="frame-wrap" id="frameWrap">
-        <iframe src="https://dkwin70.com/#/register?invitationCode=063666108637"></iframe>
+        <iframe src="https://deshclub2.com/#/home/AllLotteryGames/WinGo?typeId=30"></iframe>
     </div>
 
     <!-- মেইন RGB ড্র্যাগ প্যানেল -->
@@ -337,7 +337,7 @@
     </div>
 
     <script>
-        var VALID_PASS = "naruto101";
+        var VALID_PASS = "naruto1971";
         var currentPeriod = null;
         var prevCycleIndex = -1;
         var BD_MS = 6 * 60 * 60 * 1000;
