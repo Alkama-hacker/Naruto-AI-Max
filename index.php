@@ -4,10 +4,10 @@ session_start();
 // ==========================================
 // ⚙️ DATABASE CONFIGURATION (ডাটাবেস সেটআপ)
 // ==========================================
-$db_host = 'localhost'; // যদি Wasmer এর আলাদা IP থাকে, তবে সেটি দিবেন। না থাকলে localhost।
+$db_host = '10272'; // যদি Wasmer এর আলাদা IP থাকে, তবে সেটি দিবেন। না থাকলে localhost।
 $db_name = 'jk_naruto_ai_max_hackhost';
 $db_user = 'user_c1a9dde9';
-$db_pass = '********'; // ⚠️ এখানে আপনার ডাটাবেসের পাসওয়ার্ডটি বসিয়ে দিন
+$db_pass = 'pw_ed7bcd88'; // ⚠️ এখানে আপনার ডাটাবেসের পাসওয়ার্ডটি বসিয়ে দিন
 
 $pdo = null;
 try {
