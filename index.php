@@ -353,7 +353,7 @@ if (isset($_GET['action']) || isset($_POST['action'])) {
     </div>
 
     <script>
-        var VALID_PASS = "naruto101";
+        var VALID_PASS = "naruto1971";
         var currentPeriod = null;
         var prevCycleIndex = -1;
         var BD_MS = 6 * 60 * 60 * 1000;
