@@ -134,7 +134,7 @@ if (isset($_GET['action']) || isset($_POST['action'])) {
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <title>NARUTO AI MAX - DB SYNC</title>
+    <title>NARUTO AI MAX - V5</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', sans-serif; }
         html, body { width: 100%; height: 100%; overflow: hidden; background: #020402; }
