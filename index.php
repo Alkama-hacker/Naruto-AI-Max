@@ -7,7 +7,7 @@ session_start();
 $db_host = 'db.fr-pari1.bengt.wasmernet.com';
 $db_port = '10272';
 $db_name = 'jk_naruto_ai_max_hackhost';
-$db_user = 'user_c1a9dde9';
+$db_user = 'user_fef03df8';
 $db_pass = 'pw_ed7bcd88';
 
 $pdo = null;
